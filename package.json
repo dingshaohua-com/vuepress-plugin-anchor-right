@@ -1,16 +1,13 @@
 {
   "name": "vuepress-plugin-anchor-right",
-  "version": "0.0.1",
+  "version": "0.0.1-beta.1",
   "description": "",
   "main": "src/index.js",
-  "scripts": {
-    "lib": "echo \"Error: no test specified\" && exit 1"
-  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/dingshaohua-cn/vuepress-plugin-anchor-right.git"
   },
-  "keywords": [],
+  "keywords": ["vuepress-plugin-anchor-right", "right-anchor"],
   "author": "",
   "license": "ISC",
   "bugs": {
