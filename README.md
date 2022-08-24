@@ -1,4 +1,4 @@
-<div style="text-align:center"> 
+<div align="center"> 
 <h1>vuepress-plugin-anchor-right</h1>
 
 ![](https://img.shields.io/badge/vuepress_plugin_anchor_right-v0.0.1-brightgreen)
