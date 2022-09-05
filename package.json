@@ -1,6 +1,6 @@
 {
   "name": "vuepress-plugin-anchor-right",
-  "version": "0.0.1-beta.3",
+  "version": "0.0.1-beta.4",
   "description": "",
   "main": "src/index.js",
   "repository": {

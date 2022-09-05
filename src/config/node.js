@@ -1,15 +1,10 @@
-const { path } = require("@vuepress/utils");
+import { path } from "@vuepress/utils";
 
-module.exports = (options) => {
+export default (options) => {
   return (app) => {
     return {
       name: "vuepress-plugin-anchor-right",
-      clientConfigFile: path.resolve(__dirname, "./client.js"),
-      onInitialized(app) {
-        app.pages.forEach(element => {
-          element.contentRendered = `<div class="anchor-right"></div>${element.contentRendered}`;
-        });
-      },
-    };
+      clientConfigFile: path.resolve(__dirname, "./client.js")
+    }
   };
 };

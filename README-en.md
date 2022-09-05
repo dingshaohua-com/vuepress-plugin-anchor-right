@@ -37,6 +37,8 @@ module.exports = {
 };
 ```
 
+> If you are using vuepress version v2.0.0-beta 49, then you should use vuepress plugin anchor right v0.0.1-beta 3。 Otherwise, use the latest.
+
 ## 🤝 thanks
 If this project is helpful to you, please click a Star.   
 The author wants to enter a famous company. Your click star helps me build a dream!
