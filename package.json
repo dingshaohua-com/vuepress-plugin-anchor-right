@@ -1,8 +1,9 @@
 {
   "name": "vuepress-plugin-anchor-right",
-  "version": "0.0.1-beta.4",
+  "version": "0.0.1-beta.5",
   "description": "",
   "main": "src/index.js",
+  "type": "module",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/dingshaohua-cn/vuepress-plugin-anchor-right.git"
