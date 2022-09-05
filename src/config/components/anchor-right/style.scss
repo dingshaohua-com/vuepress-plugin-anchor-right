@@ -3,8 +3,12 @@
         display: none;
     }
 
-    .sidebar-item-children {
-        display: block;
+    .sidebar-items{
+        .sidebar-item-children {
+            .sidebar-item-children {
+                display: block;
+            }
+        }
     }
 
     .page {
@@ -17,8 +21,12 @@
         display: block;
     }
 
-    .sidebar-item-children {
-        display: none;
+    .sidebar-items{
+        .sidebar-item-children {
+            .sidebar-item-children {
+                display: none;
+            }
+        }
     }
 
     .page {
