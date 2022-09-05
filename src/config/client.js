@@ -9,7 +9,11 @@ export default defineClientConfig({
   setup() {
     const mountAnchorRight = () => {
       try {
-        const anchorRight = window.document.querySelector(".anchor-right");
+        const ctx = document.querySelector('.theme-default-content');
+        const anchorRight = document.createElement('div');
+        anchorRight.className = 'anchor-right';
+        ctx.insertBefore(anchorRight, ctx.firstChild);
+        
         const app = createApp(AnchorRight);
         app.provide("route", route);
         app.provide("router", router);
@@ -22,10 +26,6 @@ export default defineClientConfig({
     const router = useRouter();
     onMounted(() => {
       setTimeout(() => {
-        const ctx = document.querySelector('.theme-default-content');
-        const anchorRight = document.createElement('div');
-        anchorRight.className = 'anchor-right';
-        ctx.insertBefore(anchorRight, ctx.firstChild);
         mountAnchorRight();
       }, 300)
 
