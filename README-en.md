@@ -27,7 +27,7 @@ Use in your project
 
 ```js
 // docs/.vuepress/config.js
-const vuepressPluginAnchorRight = require ('vuepress-plugin-anchor-right') ;
+import vuepressPluginAnchorRight from 'vuepress-plugin-anchor-right';
 
 module.exports = {
   ...,
