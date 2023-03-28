@@ -29,7 +29,7 @@ Use in your project
 // docs/.vuepress/config.js
 import vuepressPluginAnchorRight from 'vuepress-plugin-anchor-right';
 
-module.exports = {
+export default  {
   ...,
   plugins: [
     [vuepressPluginAnchorRight()],
