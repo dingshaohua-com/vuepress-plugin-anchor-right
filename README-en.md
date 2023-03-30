@@ -41,4 +41,15 @@ export default  {
 
 ## 🤝 thanks
 If this project is helpful to you, please click a Star.   
-The author wants to enter a famous company. Your click star helps me build a dream!
+The author wants to enter a famous company. Your click star helps me build a dream!    
+Or sponsor me for a little money or whatever, after all, I need motivation, right?    
+![img](https://github.com/dingshaohua-cn/vuepress-plugin-anchor-right/blob/main/preview/money.png?raw=true)
+
+
+## ❤️  follow-up
+！！！ Found that many people can't use it or no effect    
+In addition, if it were a 1. x version, I would not have supported it   
+Contact me and discuss QQ:589063088         
+![img](https://github.com/dingshaohua-cn/vuepress-plugin-anchor-right/blob/main/preview/qq.png?raw=true) 
+
+

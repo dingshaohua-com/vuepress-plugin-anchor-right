@@ -42,13 +42,15 @@ export default  {
 
 ## 🤝 谢谢
 如果这个项目对你有帮助，请帮忙点一个 Star。    
-作者想进大厂需要有好的项目，期望您的一个赞帮我筑梦成功！
+作者想进大厂需要有好的项目，期望您的一个赞帮我筑梦成功！   
+或者赞助我一点点钱也行，多少都可以，毕竟我需要动力是不是?       
+![img](https://github.com/dingshaohua-cn/vuepress-plugin-anchor-right/blob/main/preview/money.png?raw=true)
 
 
-## 后续
+## ❤️ 后续
+！！！发现很多人 不会用，或者出不来    
+另外如果是1.x的版本  我本来就不支持    
+然后还是有问题，出不来的加QQ群：589063088    
+![img](https://github.com/dingshaohua-cn/vuepress-plugin-anchor-right/blob/main/preview/qq.png?raw=true)
 
-！！！发现很多人 不会用，或者出不来   
-加群：589063088   
-我在里边。   
-
-另外如果是1.x的版本  我本来就不支持
+  
