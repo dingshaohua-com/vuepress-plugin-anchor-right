@@ -11,7 +11,7 @@ export default defineClientConfig({
         // 移除旧节点
         const anchorRightEls = ctx.querySelectorAll(".anchor-right");
         anchorRightEls.forEach((item) => {
-          ctx.remove(item);
+          ctx.removeChild(item);
         });
 
         // 添加新节点
