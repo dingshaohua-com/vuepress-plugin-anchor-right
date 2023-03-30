@@ -8,7 +8,7 @@
 vuepress-plugin-anchor-right is a plugin for vuepress2.x.    
 It is used to generate the right navigation directory anchor!
 
-![img](https://github.com/dingshaohua-cn/vuepress-plugin-anchor-right/blob/main/preview/img.jpg?raw=true)
+![img](https://github.com/dingshaohua-cn/vuepress-plugin-anchor-right/blob/main/preview/img.png?raw=true)
 
 ![img](https://github.com/dingshaohua-cn/vuepress-plugin-anchor-right/blob/main/preview/img.gif?raw=true)
 

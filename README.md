@@ -8,7 +8,7 @@
 vuepress-plugin-anchor-right一款用于vuepress2.x的插件。     
 用于生成右侧导航目录锚点的功能！
 
-![img](https://github.com/dingshaohua-cn/vuepress-plugin-anchor-right/blob/main/preview/img.jpg?raw=true)
+![img](https://github.com/dingshaohua-cn/vuepress-plugin-anchor-right/blob/main/preview/img.png?raw=true)
 
 ![img](https://github.com/dingshaohua-cn/vuepress-plugin-anchor-right/blob/main/preview/img.gif?raw=true)
 
@@ -45,8 +45,10 @@ export default  {
 作者想进大厂需要有好的项目，期望您的一个赞帮我筑梦成功！
 
 
-！！！发现很多人 不会用，或者出不来
-加群：589063088
-我在里边。
+## 后续
+
+！！！发现很多人 不会用，或者出不来   
+加群：589063088   
+我在里边。   
 
 另外如果是1.x的版本  我本来就不支持
