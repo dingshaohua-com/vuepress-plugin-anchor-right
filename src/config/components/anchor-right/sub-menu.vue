@@ -19,7 +19,8 @@ const headerClick = (item) => {
   <li
     @click.prevent="headerClick(props.menuInfo)"
     :class="[
-      'item',
+      'level',
+      'level-'+props.menuInfo.level,
       { active: route.hash === `#${props.menuInfo.slug}` },
     ]"
   >
@@ -33,13 +34,13 @@ const headerClick = (item) => {
           :menu-info="item"
           :route="route"
           :router="router"
-          v-if="item.children.length > 0"
+          v-if="item.children.length > 0 && item.level!== 3"
         />
 
         <li
           v-else
           @click.stop="headerClick(item)"
-          :class="['item', { active: route.hash === `#${item.slug}` }]"
+          :class="['level', 'level-'+item.level,  { active: route.hash === `#${item.slug}` }]"
         >
           {{ item.title }}
         </li>

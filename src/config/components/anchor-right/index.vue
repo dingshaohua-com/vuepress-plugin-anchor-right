@@ -26,7 +26,7 @@ onMounted(() => {
         <template v-else>
           <li
             @click="headerClick(item)"
-            :class="['item', { active: route.hash === `#${item.slug}` }]"
+            :class="['level', 'level-'+item.level, { active: route.hash === `#${item.slug}` }]"
           >
             {{ item.title }}
           </li>
