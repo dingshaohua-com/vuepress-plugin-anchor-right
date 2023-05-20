@@ -3,14 +3,6 @@
         display: none;
     }
 
-    .sidebar-items{
-        .sidebar-item-children {
-            .sidebar-item-children {
-                display: block;
-            }
-        }
-    }
-
     .page {
         padding-right: 0;
     }
@@ -19,14 +11,6 @@
 @media (min-width: 1000px) {
     .anchor-right {
         display: block;
-    }
-
-    .sidebar-items{
-        .sidebar-item-children {
-            .sidebar-item-children {
-                display: none;
-            }
-        }
     }
 
     .page {
