@@ -17,7 +17,7 @@ const headerClick = (item) => {
 </script>
 <template>
   <li
-    @click.prevent="headerClick(props.menuInfo)"
+    @click.stop.prevent="headerClick(props.menuInfo)"
     :class="[
       'level',
       'level-'+props.menuInfo.level,
