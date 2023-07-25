@@ -1,3 +1,7 @@
+此插件不再维护，建议使用[主题](https://github.com/dingshaohua-cn/vuepress-theme-sidebar)    
+主题是基于官方的，除了加个导航，没有任何多余代码！
+
+
 <div align="center"> 
 <h1>vuepress-plugin-anchor-right</h1>
 
